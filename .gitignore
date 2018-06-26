@@ -1,0 +1,9 @@
+# Log files
+*.log
+
+# Data files
+*.csv
+*.zip
+
+# Test files
+*test*
