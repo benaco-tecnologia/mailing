@@ -4,6 +4,7 @@
 # Data files
 *.csv
 *.zip
+adjuntos/*
 
 # Test files
 *test*
